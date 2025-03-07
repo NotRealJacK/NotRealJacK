@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **frontend development. I'm focusing on HTML, CSS, and JavaScript, and exploring frameworks like React. I'm still in the early stages but excited to build interactive websites and improve my skills!**
 
-- 👨‍💻 All of my projects are available at [As of now, my projects aren't available anywhere, but I'm working on building a portfolio to showcase them soon!](As of now, my projects aren't available anywhere, but I'm working on building a portfolio to showcase them soon!)
+- 👨‍💻 All of my projects are available at **[As of now, my projects aren't available anywhere, but I'm working on building a portfolio to showcase them soon!]**
 
 - 💬 Ask me about **my progress in frontend development!**
 
 - 📫 How to reach me **assassin0p0616@gmail.com**
 
-- 📄 Know about my experiences [I'm a beginner in frontend development, currently learning HTML, CSS, and JavaScript. I'm exploring frameworks like React and working on small projects to improve my skills. I'm still learning, but I'm excited to build and grow as a developer!](I'm a beginner in frontend development, currently learning HTML, CSS, and JavaScript. I'm exploring frameworks like React and working on small projects to improve my skills. I'm still learning, but I'm excited to build and grow as a developer!)
+- 📄 Know about my experiences **[I'm a beginner in frontend development, currently learning HTML, CSS, and JavaScript. I'm exploring frameworks like React and working on small projects to improve my skills. I'm still learning, but I'm excited to build and grow as a developer!]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
