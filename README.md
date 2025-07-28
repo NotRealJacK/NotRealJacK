@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NotRealJack</h1>
+<h1 align="center">Hi 👋, I'm Jithin Abraham</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
 - 🌱 I’m currently learning **frontend development. I'm focusing on HTML, CSS, and JavaScript, and exploring frameworks like React. I'm still in the early stages but excited to build interactive websites and improve my skills!**
